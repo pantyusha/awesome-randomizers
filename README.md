@@ -22,8 +22,6 @@
 - [SublimeStar Random](https://random-images.3w3.eu/) - случайные N изображений с Imgur, можно менять размер показываемых превью
 - [g9g random](http://g9g.eu/) - случайные изображения с Imgur, подгружает по 32
 - [RandomGur](http://jasonb.io/randomgur/) - случайное изображение с Imgur, можно листать вперёд и назад
-- [Mangle](http://www.mangle.ca/randomlj.php) - последние 25 изображений, загруженных в [Livejournal](http://www.livejournal.com/)
-
 
 ## Cтраницы
 
@@ -33,6 +31,10 @@
 ## Tor
 
 - [RANDom .onion](http://random.parazite.gdn/) - переадресация на случайный .onion-веб-сайт. Всего в базе около 4000 ссылок, из них больше 50% недействительны. Зеркала: [[1]](http://random.parazite.xxx/), описание: [(onion)](https://kpynyvym6xqi7wz2.onion.cab/links.html) 
+
+## Веб-камеры
+
+- [IP-24.net](http://ip-24.net/main.php?lang=ru&id=r) - трансляция случайной веб-камеры
 
 ## Координаты
 
