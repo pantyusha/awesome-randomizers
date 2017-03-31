@@ -6,7 +6,7 @@
 
 * [English](https://github.com/pantyusha/awesome-randomizers/edit/master/README-en.md)
 
-### Видео
+## Видео
 
 - [PetitTube](http://petittube.com) - рандомизация YouTube видеозаписей с малым числом просмотров. Для
 корректной работы сайта необходим Adobe Flash Player. По состоянию на 6 января 2016 года
@@ -22,6 +22,11 @@
 - [SublimeStar Random](https://random-images.3w3.eu/) - случайные N изображений с Imgur, можно менять размер показываемых превью
 - [g9g random](http://g9g.eu/) - случайные изображения с Imgur, подгружает по 32
 - [RandomGur](http://jasonb.io/randomgur/) - случайное изображение с Imgur, можно листать вперёд и назад
+
+## Текст
+
+- [РыбаТекст](http://fishtext.ru/) - случайный русский текст для заполнения контентом по количеству абзацев
+- [GSgen текст](http://gsgen.ru/tools/fish-text/) - генерация русского/lorem ipsum текста по заданным параметрам
 
 ## Cтраницы
 
