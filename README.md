@@ -9,7 +9,7 @@
 - [Видео](#Видео)
 - [Cтраницы](#Cтраницы)
 - [Tor](#Tor)
-- [Веб-камеры](#Веб_камеры)
+- [IoT](#IoT)
 - [Координаты](#Координаты)
 
 ## [↑](#Содержимое) Текст
@@ -38,14 +38,17 @@
 
 - [Mangle Random Archive](http://www.mangle.ca/archive.php) - случайная из страниц, содержащихся в архиве сервиса Mangle.
 - [Mangle Random Homepage](http://www.mangle.ca/homepage.php) - случайная из домашних страниц с сервиса [GeoCities](https://ru.wikipedia.org/wiki/GeoCities).
+- [The Useless Web](http://www.theuselessweb.com/) - отправляет на случайный, бесполезный сайт.
+- [Random Website Machine](http://www.whatsmyip.org/random-website-machine/random/) - случайный веб сайт из более чем 3 миллионов сайтов.
 
 ## [↑](#Содержимое) Tor
 
-- [RANDom .onion](http://random.parazite.gdn/) - переадресация на случайный .onion-веб-сайт. Всего в базе около 4000 ссылок, из них больше 50% недействительны. Зеркала: [[1]](http://random.parazite.xxx/), описание: [(onion)](https://kpynyvym6xqi7wz2.onion.cab/links.html).
+- [ParaZite Random .onion](http://random.para.city/) - переадресация на случайный .onion-веб-сайт.
 
-## [↑](#Содержимое) Веб-камеры
+## [↑](#Содержимое) IoT
 
-- [IP-24.net](http://ip-24.net/main.php?lang=ru&id=r) - трансляция случайной веб-камеры.
+- [World of VNC](https://worldofvnc.net/browse.php?) - случайный VNC из 3513 серверов, информация + скриншот.
+- [IP-24](https://ip-24.net/webcams.php) - трансляция случайной веб-камеры.
 
 ## [↑](#Содержимое) Координаты
 
