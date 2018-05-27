@@ -34,7 +34,7 @@
 тэгам DSC, IMG и MOV с добавлением чисел. Самые свежие фильтруются по времени и
 выводятся в случайном порядке. Открыт [исходный код](https://github.com/wonga00/astronaut).
 
-## [↑](#Содержание) Cтраницы
+## [↑](#Содержание) Страницы
 
 - [Mangle Random Archive](http://www.mangle.ca/archive.php) - случайная из страниц, содержащихся в архиве сервиса Mangle.
 - [Mangle Random Homepage](http://www.mangle.ca/homepage.php) - случайная из домашних страниц с сервиса [GeoCities](https://ru.wikipedia.org/wiki/GeoCities).
