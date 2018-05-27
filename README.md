@@ -4,26 +4,13 @@
 
 ## Содержание
 
-- [Текст](#-Текст)
-- [Изображения](#-Изображения)
 - [Видео](#-Видео)
-- [Cтраницы](#-Страницы)
-- [Tor](#-tor)
-- [IoT](#-iot)
+- [Изображения](#-Изображения)
 - [Координаты](#-Координаты)
-
-## [↑](#Содержание) Текст
-
-- [РыбаТекст](http://fishtext.ru/) - случайный русский текст для заполнения контентом по количеству абзацев.
-- [GSgen текст](http://gsgen.ru/tools/fish-text/) - генерация русского/lorem ipsum текста по заданным параметрам.
-
-## [↑](#Содержание) Изображения
-
-- [ImgurRoulette](http://imgurroulette.byethost3.com/) - случайные 50-2000 изображений с [Imgur](https://imgur.com).
-- [RandomImgur](http://www.maxitter.com/imgur/) - случайное изображение с Imgur.
-- [SublimeStar Random](https://random-images.3w3.eu/) - случайные N изображений с Imgur, можно менять размер показываемых превью.
-- [g9g random](http://g9g.eu/) - случайные изображения с Imgur, подгружает по 32.
-- [RandomGur](http://jasonb.io/randomgur/) - случайное изображение с Imgur, можно листать вперёд и назад.
+- [Cтраницы](#-Страницы)
+- [Текст](#-Текст)
+- [IoT](#-iot)
+- [Tor](#-tor)
 
 ## [↑](#Содержание) Видео
 
@@ -34,6 +21,18 @@
 тэгам DSC, IMG и MOV с добавлением чисел. Самые свежие фильтруются по времени и
 выводятся в случайном порядке. Открыт [исходный код](https://github.com/wonga00/astronaut).
 
+## [↑](#Содержание) Изображения
+
+- [ImgurRoulette](http://imgurroulette.byethost3.com/) - случайные 50-2000 изображений с [Imgur](https://imgur.com).
+- [RandomImgur](http://www.maxitter.com/imgur/) - случайное изображение с Imgur.
+- [SublimeStar Random](https://random-images.3w3.eu/) - случайные N изображений с Imgur, можно менять размер показываемых превью.
+- [g9g random](http://g9g.eu/) - случайные изображения с Imgur, подгружает по 32.
+- [RandomGur](http://jasonb.io/randomgur/) - случайное изображение с Imgur, можно листать вперёд и назад.
+
+## [↑](#Содержание) Координаты
+
+- [Mangle Random Earth](http://www.mangle.ca/randomearth/) - случайные координаты на Google-картах по заданным параметрам.
+
 ## [↑](#Содержание) Страницы
 
 - [Mangle Random Archive](http://www.mangle.ca/archive.php) - случайная из страниц, содержащихся в архиве сервиса Mangle.
@@ -41,15 +40,16 @@
 - [The Useless Web](http://www.theuselessweb.com/) - отправляет на случайный, бесполезный сайт.
 - [Random Website Machine](http://www.whatsmyip.org/random-website-machine/random/) - случайный веб сайт из более чем 3 миллионов сайтов.
 
-## [↑](#Содержание) Tor
+## [↑](#Содержание) Текст
 
-- [ParaZite Random .onion](http://random.para.city/) - переадресация на случайный .onion-веб-сайт.
+- [РыбаТекст](http://fishtext.ru/) - случайный русский текст для заполнения контентом по количеству абзацев.
+- [GSgen текст](http://gsgen.ru/tools/fish-text/) - генерация русского/lorem ipsum текста по заданным параметрам.
 
 ## [↑](#Содержание) IoT
 
 - [World of VNC](https://worldofvnc.net/browse.php?) - случайный VNC из 3513 серверов, информация + скриншот.
 - [IP-24](https://ip-24.net/webcams.php) - трансляция случайной веб-камеры.
 
-## [↑](#Содержание) Координаты
+## [↑](#Содержание) Tor
 
-- [Mangle Random Earth](http://www.mangle.ca/randomearth/) - случайные координаты на Google-картах по заданным параметрам.
+- [ParaZite Random .onion](http://random.para.city/) - переадресация на случайный .onion-веб-сайт.
