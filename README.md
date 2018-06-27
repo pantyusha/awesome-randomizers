@@ -20,6 +20,7 @@
 - [Astronaut](http://astronaut.io/) - современная альтернатива PetitTube. Ищет на YouTube видео по
 тэгам DSC, IMG и MOV с добавлением чисел. Самые свежие фильтруются по времени и
 выводятся в случайном порядке. Открыт [исходный код](https://github.com/wonga00/astronaut).
+- [Lonely Streams](https://lonelystreams.com/) - случайная трасляция с Twitch без зрителей.
 
 ## [↑](#Содержание) Изображения
 
