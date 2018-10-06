@@ -36,6 +36,8 @@
 
 ## [↑](#Содержание) Изображения
 
+- [Random Personal Picture Finder](http://www.diddly.com/random/) - выдает личные фотографии, найденные в Bing, путём добавления случайного числа к префиксам имени файла ("dcp#####.jpg", "IMG_###.jpg" и т.д), подробнее в [About](http://www.diddly.com/random/about.html).
+
 ### Imgur
 
 Осторожно, возможно NSFW!
