@@ -51,7 +51,8 @@
 ## [↑](#Содержание) Координаты
 
 - [Mangle Random Earth](http://www.mangle.ca/randomearth/) - случайные координаты на Google-картах по заданным параметрам.
-
+- [GEOGUESSR](https://geoguessr.com/world/play) - игра по угадыванию случайного места в Google Street View, необходимо выбрать место на карте, после чего подсчитывается расстояние до реального местоположения.
+- [sluchajnoe.ru](http://sluchajnoe.ru/google-maps.html) - случайное место на карте Google.
 
 ## [↑](#Содержание) Страницы
 
