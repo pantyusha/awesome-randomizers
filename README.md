@@ -38,7 +38,7 @@
 
 - [Random Personal Picture Finder](http://www.diddly.com/random/) - выдает личные фотографии, найденные в Bing, путём добавления случайного числа к префиксам имени файла ("dcp#####.jpg", "IMG_###.jpg" и т.д), подробнее в [About](http://www.diddly.com/random/about.html).
 
-### Imgur
+### [Imgur](imgur.com)
 
 Осторожно, возможно NSFW!
 
@@ -47,6 +47,9 @@
 - [SublimeStar Random](https://random-images.3w3.eu/) - случайные N изображений, можно менять размер показываемых превью.
 - [g9g random](http://g9g.eu/)
 
+### [Lightshot](https://prnt.sc) 
+
+- [CASCHBOX.COM](https://caschbox.com/)
 
 ## [↑](#Содержание) Координаты
 
