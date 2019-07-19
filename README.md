@@ -37,6 +37,8 @@
 ## [↑](#Содержание) Изображения
 
 - [Random Personal Picture Finder](http://www.diddly.com/random/) - выдает личные фотографии, найденные в Bing, путём добавления случайного числа к префиксам имени файла ("dcp#####.jpg", "IMG_###.jpg" и т.д), подробнее в [About](http://www.diddly.com/random/about.html).
+- [Random FTP Image](https://t.me/joinchat/AAAAAFcy531tlC9K6WP5BQ) - автопостинг изображений со случайных FTP со ссылками и кнопками для переходов. Разработан Maître.
+- [https://dis.cool/pics](https://dis.cool/pics) -  рандомайзер по картинкам, заливаемым в Discord
 
 ### [Imgur](imgur.com)
 
@@ -50,6 +52,7 @@
 ### [Lightshot](https://prnt.sc) 
 
 - [CASCHBOX.COM](https://caschbox.com/)
+- [Lightshot scanner](https://t.me/joinchat/AAAAAFAj36SRunHF_jrnfg)- пользовательские скриншоты с prnt.sc; есть возможность поучаствовать в скане - необходим node.js и токен бота, писать @weary_adventurer.
 
 ## [↑](#Содержание) Координаты
 
@@ -63,6 +66,8 @@
 - [Mangle Random Homepage](http://www.mangle.ca/homepage.php) - случайная из домашних страниц с сервиса [GeoCities](https://ru.wikipedia.org/wiki/GeoCities).
 - [The Useless Web](http://www.theuselessweb.com/) - отправляет на случайный, бесполезный сайт.
 - [Random Website Machine](http://www.whatsmyip.org/random-website-machine/random/) - случайный веб сайт из более чем 3 миллионов сайтов.
+ - [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - случайный сайт с бесплатного хостинга sitecity.ru от [@web10_scavengers](https://t.me/web10_scavengers)
+ - [ChatRU randomscan](https://t.me/ChatRU_randomscan) - ещё один парсер ретросайтов от [@web10_scavengers](https://t.me/web10_scavengers)
 
 
 ## [↑](#Содержание) Текст
