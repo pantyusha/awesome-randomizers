@@ -65,6 +65,7 @@
 - [Mangle Random Archive](http://www.mangle.ca/archive.php) - случайная из страниц, содержащихся в архиве сервиса Mangle.
 - [Mangle Random Homepage](http://www.mangle.ca/homepage.php) - случайная из домашних страниц с сервиса [GeoCities](https://ru.wikipedia.org/wiki/GeoCities).
 - [The Useless Web](http://www.theuselessweb.com/) - отправляет на случайный, бесполезный сайт.
+- [Uroulette](https://uroulette.com/visit/opwuot) - перенаправляет на случайный сайт.
 - [Random Website Machine](http://www.whatsmyip.org/random-website-machine/random/) - случайный веб сайт из более чем 3 миллионов сайтов.
  - [Sitecity.RU randomscan](https://t.me/SiteCityRU_randomscan) - случайный сайт с бесплатного хостинга sitecity.ru от [@web10_scavengers](https://t.me/web10_scavengers)
  - [ChatRU randomscan](https://t.me/ChatRU_randomscan) - ещё один парсер ретросайтов от [@web10_scavengers](https://t.me/web10_scavengers)
